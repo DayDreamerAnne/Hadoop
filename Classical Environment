@@ -1,0 +1,6 @@
+Server: ESXi, which supports 10+ virtual machines or 4 vms simutainously. 
+PC: LINUX 
+    Windows+Cygwin
+SSH: Windows require SecureCRT or Putty etc. Similar ssh client for remote connection with linux server
+Vmware client:managing ESXi
+Hadoop: version 0.20.2
